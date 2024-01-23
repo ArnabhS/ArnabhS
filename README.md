@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UPI Bus Project<br>👯 I’m looking to collaborate on Web Dev<br>🤝 I’m looking for help with Next.JS<br>🌱 I’m currently learning React.JS and Next.Js<br>💬 Ask me about MERN dev, DSA, Java and OOP<br>⚡ Fun fact you can inherit but cant override
+🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Web Dev<br>🤝 I’m looking for help with Next.JS<br>🌱 I’m currently learning React.JS and Next.Js<br>💬 Ask me about MERN dev, DSA, Java and OOP<br>⚡ Fun fact you can inherit but cant override
 
 
 ## 🌐 Socials:

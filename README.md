@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0cB9N3hz1mZDL9svTL5sqL&ust=1708855360573000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICtgrjcw4QDFQAAAAAdAAAAABBA"/>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Development<br>👯 I’m looking to collaborate on Web Dev<br>🤝 I’m looking for help with Next.JS<br>🌱 I’m currently learning React.JS and Next.Js<br>💬 Ask me about MERN dev, DSA, Java and OOP<br>⚡ Fun fact you can inherit but cant override

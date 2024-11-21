@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="500" src="./images//img.webp">
+<p align="center">
+  <img alt="Coding" width="500" src="./images//img.webp">
+</p>
 
 
 # 💫 About Me:
